@@ -1,0 +1,71 @@
+.navbar {
+    height: 50px;
+    width: 100%;
+    background-color: #0f1111;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("amazon-logo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(35, 91, 116);
+}
+
+.contact {
+    color: white;
+}
+
+.hero {
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-image: url("hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box1 {
+    height: 250px;
+    width: 90%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo1 {
+    height: 200px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("box6.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 50px;
+}
+
+.text1 {
+    
+}
